@@ -1,0 +1,52 @@
+#top{
+	margin-top: 0px;
+	text-align: center;
+	font-size: 100px;
+	background: black;
+	color: white;
+    text-decoration: underline;
+    text-decoration-color: red;
+}
+div{
+	background: grey;
+	
+	text-align: center;
+}
+section{
+	
+	display: inline-block;
+	width:32%;
+	font-size: 30px;
+	text-align: center;
+}
+h2{
+   font-size: 50px;
+}
+#raw{
+	border-radius: 70px;
+	background:red;
+}
+#sd{
+	color: white;
+	border-radius: 70px;
+	background: blue;
+}
+#sd a{
+	color: white;
+}
+#nxt{
+	color: gold;
+	border-radius: 70px;
+	background: black;
+}
+#rawimg,#sdimg{
+    height: 100px;
+}
+#nxtimg{
+	height: 100px;
+	width: 150px;
+}
+footer{
+	margin-top: 200px;
+	clear:both;
+}
